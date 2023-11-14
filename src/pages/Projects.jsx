@@ -64,8 +64,8 @@ const Projects = () => {
               imgPath={portfolio}
               title="Portfolio"
               description="Develop a personal portfolio website to showcase all my projects and skills in React and some of the packages."
-              dmLink="https://github.com/kalpitsahu22/usepopcorn"
-              ghLink="https://splendid-beignet-2a54a9.netlify.app/"
+              dmLink=""
+              ghLink="https://github.com/kalpitsahu22/portfolio"
             />
           </Col>
 

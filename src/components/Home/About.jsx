@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import LaptopImg from "../../assets/home-main.svg";
 import Tilt from "react-parallax-tilt";
-import { AiFillGithub } from "react-icons/ai";
+
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
 
@@ -45,7 +45,7 @@ const About = () => {
                   className="icon-colour  home-social-icons"
                   aria-label="github"
                 >
-                  <AiFillGithub />
+                  {/* <AiFillGithub /> */}
                 </a>
               </li>
               <li className="social-icons">
