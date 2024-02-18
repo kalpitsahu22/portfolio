@@ -84,7 +84,7 @@ function NavBar() {
               style={{ margin: "8px" }}
               variant="primary"
               // icon={props.icon}
-              href="https://drive.google.com/file/d/1Ngzjh-JSI_X2rygmCYfI0F5PxkV1Of1C/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ShUAr7LMnH3zAKdvyLyRsOug9pWuHEoW/view"
               target="_blank"
             >
               <AiOutlineDownload />

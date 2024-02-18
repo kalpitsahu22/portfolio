@@ -5,6 +5,7 @@ import Tilt from "react-parallax-tilt";
 
 import { FaLinkedinIn } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
+import { AiFillGithub } from "react-icons/ai";
 
 const About = () => {
   return (
@@ -43,9 +44,9 @@ const About = () => {
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
-                  aria-label="github"
+                  aria-label="git"
                 >
-                  {/* <AiFillGithub /> */}
+                  <AiFillGithub />
                 </a>
               </li>
               <li className="social-icons">
